@@ -21,5 +21,6 @@ public class ACER extends ViolationLaptop implements ExtraFeatures
     {
         System.out.println("Finger Print sensor Available");
     }
+
 }
 

@@ -124,7 +124,7 @@ public class Main
         new_acer.getAvailableMemory();
         new_acer.touchScreen();
         new_acer.fingerPrintSensor();
-        //new_acer.screenType();
+        new_acer.screenType();
 
         System.out.println();
 
